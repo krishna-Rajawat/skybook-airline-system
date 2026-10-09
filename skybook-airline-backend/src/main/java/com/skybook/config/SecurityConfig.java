@@ -34,7 +34,7 @@ public class SecurityConfig {
 
         configuration.setAllowedOrigins(List.of(
                 "http://localhost:5173",
-                "https://skybook02.vercel.app"
+                "https://skybook-airline-system-steel.vercel.app"
         ));
 
         configuration.setAllowedMethods(List.of(
